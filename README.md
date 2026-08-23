@@ -1,12 +1,10 @@
 ## Hi, I'm Eugenia 👋
 
-**Mobile Media B.Sc. Student · Mobile & Full-Stack Developer**
-
 I'm a Mobile Media (B.Sc.) student at Hochschule der Medien Stuttgart and I enjoy building applications from the interface down to their architecture and data layer.
 
 My current focus is native iOS development with Swift and SwiftUI, with a particular interest in clean architecture, local-first applications and thoughtful UI/UX.
 
-I also have professional full-stack experience with React and Node.js and a technical background in IT system integration.
+I also have professional full-stack experience with React and Node.js.
 
 
 ---
