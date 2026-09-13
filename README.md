@@ -1,24 +1,24 @@
-## Hi, I'm Eugenia 👋
+## Hi, I'm Eugenia
 
 I'm a Mobile Media (B.Sc.) student at Hochschule der Medien Stuttgart and I enjoy building applications from the interface down to their architecture and data layer.
 
-My current focus is native iOS development with Swift and SwiftUI, with a particular interest in clean architecture, local-first applications and thoughtful UI/UX.
+My background includes native iOS development with Swift and SwiftUI and Kotlin.
 
-I also have professional full-stack experience with React and Node.js.
+I also have professional full-stack experience with React and Node.js and enjoy working across the boundary between frontend, backend and data.
 
+Recently, I've been expanding into AI-assisted applications, LLM integrations and automation.
 
 ---
 
-## Core Technologies
+## Technical Skills
 
 ### Mobile
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift\&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square\&logo=swift\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
-
-`SwiftData` · `Room` · `MVVM` · `Repository Pattern` · `Local Persistence`
 
 ### Web
 
@@ -26,8 +26,8 @@ I also have professional full-stack experience with React and Node.js.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-
-`REST APIs` · `Express` · `SQLite` · `LDAP`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 
@@ -39,171 +39,34 @@ I also have professional full-stack experience with React and Node.js.
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square\&logo=xcode\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<!--
----
-
-## Experience
-
-### Software Development · Hitachi Rail
-
-Worked on an internal web application using **React, Node.js and JavaScript**, including:
-
-* frontend and backend development
-* requirements analysis
-* implementation of new functionality
-* testing and validation
-* technical documentation
-* maintenance and support
-
-This experience gave me the opportunity to work on software throughout multiple stages of the development lifecycle.
-
----
 
 ## Selected Projects
+ 
+[Explore FitNFocus](https://github.com/eugeniaFan/FitNFocus-Android-App.git)
+ 
+Android study and focus tracking app built with Kotlin, Jetpack Compose, Room and MVVM.
+Focus areas: local persistence, state-driven UI and separation between data and presentation layers.
+ 
+[Explore Beanji](https://github.com/eugeniaFan/Beanji-MobileApp.git)
+ 
+Beanji is a local-first iOS plant-care app built with SwiftUI, SwiftData, MVVM, and repository abstractions.
 
-### Beanji — iOS Plant Care App
+## Currenrly Compiling...
 
-**Swift · SwiftUI · SwiftData · MVVM · Repository Pattern**
+I'm currently building and refining mobile and web applications with a focus on clean architecture, local-first data handling and maintainable software.
 
-Personal iOS project focused on privacy-first plant management, local data storage and maintainable application architecture.
+My recent work includes experimenting with LLM integrations, agent-based workflows, local development environments, automation and programmatic media generation, while continuing to build native iOS and interactive web applications.
 
-### FitNFocus — Android App
-
-**Kotlin · Jetpack Compose · Room · MVVM**
-
-Android application developed with a layered architecture and local persistence.
-
-### Internal Web Application
-
-**React · Node.js · JavaScript · SQLite**
-
-Professional full-stack development project created in a business environment.
-
----
-
-## About me
-
-Before starting my Mobile Media degree, I completed vocational training in **IT / System Integration**.
-
-That background, combined with my studies and professional software development experience, allows me to approach projects from both an application-development and technical-systems perspective.
-
-I particularly enjoy turning ideas into complete applications — from **UI/UX and architecture to implementation, persistence and APIs**.
-
----
-
-## Currently learning & improving
-
-* advanced Swift & SwiftUI
-* scalable iOS architecture
-* software testing
-* API design and integration
-* application security
-* clean and maintainable code
-
----
-
-### Contact
-
-I'm open to opportunities in **iOS, Mobile and Software Development**.
-
-[GitHub](https://github.com/eugeniaFan)
+I'm particularly interested in how different components like interfaces, APIs, models, automation and data, can be combined into maintainable software systems.
 
 
----
+ 
+## Get in Touch
 
-## Featured Project
+I'm open to opportunities in iOS, Mobile and Software Development.
 
-### 🌱 Beanji — iOS Plant Care App
+[Linkedin](https://www.linkedin.com/in/eugenia-fanenstiel)
 
-**Swift · SwiftUI · SwiftData · MVVM · Repository Pattern**
-
-Beanji is a privacy-first iOS application for managing plants and their care routines.
-
-Rather than treating it only as a UI project, I use Beanji to explore how a real-world mobile application can be structured for long-term development.
-
-**Technical focus:**
-
-* local-first data architecture
-* SwiftData persistence
-* MVVM with repository abstraction
-* REST API integration with local fallback
-* dependency abstraction
-* reusable SwiftUI components
-* maintainable feature-based structure
-* Git-based development workflow
-
-[Explore Beanji →](https://github.com/eugeniaFan/Beanji-MobileApp)
-
----
-
-
-## Professional Experience
-
-### Software Development — Hitachi Rail
-
-Professional experience developing an internal web application across the software lifecycle.
-
-**React · Node.js · JavaScript · SQLite**
-
-Worked on:
-
-* frontend and backend development
-* requirements analysis
-* implementation of new functionality
-* testing and validation
-* technical documentation
-* maintenance and support
-
-This experience gave me practical insight into developing and maintaining software in a professional environment beyond university projects.
-
----
-
-## Selected Projects
-
-### FitNFocus
-
-**Android · Kotlin · MVVM · Room**
-
-Android application built with a layered architecture, local persistence and separation between UI, business logic and data access.
-
-### Beanji
-
-**iOS · Swift · SwiftUI · SwiftData**
-
-My current main project and ongoing exploration of native iOS architecture and product development.
-
-### Internal WebApp
-
-**React · Node.js · JavaScript · SQLite**
-
-Internal full-stack web application developed in a professional environment.
-
----
-
-## Background
-
-Before studying Mobile Media, I completed vocational training in **IT System Integration**.
-
-Today, I combine that technical foundation with application development, UI/UX and software architecture.
-
-My primary interests are:
-
-`iOS Development` · `Mobile Architecture` · `Full-Stack Development` · `UI/UX` · `Application Security`
-
----
-
-## What I'm focusing on
-
-Currently deepening my knowledge in:
-
-* advanced Swift & SwiftUI
-* scalable iOS architecture
-* testing and code quality
-* API integration
-* application security
-* designing maintainable software systems
-
----
 
 
 <!--
