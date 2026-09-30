@@ -2,13 +2,28 @@
 
 I'm a Mobile Media (B.Sc.) student at Hochschule der Medien Stuttgart and I enjoy building applications from the interface down to their architecture and data layer.
 
-My background includes native iOS development with Swift and SwiftUI and Kotlin.
+My background includes native iOS development with Swift and SwiftUI and Android development with Kotlin and Jetpack Compose.
 
 I also have professional full-stack experience with React and Node.js and enjoy working across the boundary between frontend, backend and data.
 
 Recently, I've been expanding into AI-assisted applications, LLM integrations and automation.
 
 ---
+
+
+## Selected Projects
+ 
+### [Explore FitNFocus - Android App](https://github.com/eugeniaFan/FitNFocus-Android-App.git)
+ 
+Android study and focus tracking app built with Kotlin, Jetpack Compose, Room and MVVM.
+
+Focus areas: local persistence, state-driven UI and separation between data and presentation layers.
+ 
+### [Explore Beanji - iOS Plant Care App](https://github.com/eugeniaFan/Beanji-MobileApp.git)
+ 
+A local-first plant-care app built with SwiftUI and SwiftData, featuring a selectable watering calendar, persistent care history, and English/German localization.
+
+Focus areas: MVVM, repository boundaries, date-based task logic, and automated tests.
 
 ## Technical Skills
 
@@ -40,18 +55,8 @@ Recently, I've been expanding into AI-assisted applications, LLM integrations an
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 
-## Selected Projects
- 
-[Explore FitNFocus](https://github.com/eugeniaFan/FitNFocus-Android-App.git)
- 
-Android study and focus tracking app built with Kotlin, Jetpack Compose, Room and MVVM.
-Focus areas: local persistence, state-driven UI and separation between data and presentation layers.
- 
-[Explore Beanji](https://github.com/eugeniaFan/Beanji-MobileApp.git)
- 
-Beanji is a local-first iOS plant-care app built with SwiftUI, SwiftData, MVVM, and repository abstractions.
 
-## Currenrly Compiling...
+## Currently Working On
 
 I'm currently building and refining mobile and web applications with a focus on clean architecture, local-first data handling and maintainable software.
 
